@@ -13,6 +13,10 @@
 
 }
 
+#cor-titulo{
+	color: #8D0606;
+}
+
 .cor-especial{
 	color: darkred;
 }
@@ -27,7 +31,7 @@
 }
 
 .card-largura {
-	width: 18rem;
+	max-width: 18rem;
 }
 
 .card-posicao-imagem{
